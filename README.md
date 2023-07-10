@@ -6,3 +6,4 @@ para poder usar los archivos de este repusitorio de manera correcta se debe de h
 2) copiar y pegar el archivo .yaml hay que reescribirlo y luego actualizar las dependencias
 
 si se desea se puede descargar el apk adjuntado para disfrutar de la app en un dispositivo movil
+https://drive.google.com/file/d/1UHKlJl99qWW3gGn6wZ1JBqHV1BxhmgQF/view?usp=drive_link 
